@@ -1,0 +1,1 @@
+Online sales dataset of a cosmetics company in New York City, USA. Using this sales dataset, it is possible to understand seasonality and devise effective marketing campaign strategies for peak seasons to optimize sales.
