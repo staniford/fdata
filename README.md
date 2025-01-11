@@ -1,5 +1,8 @@
 Online sales dataset of a cosmetics company in New York City, USA. Using this sales dataset, it is possible to understand seasonality and devise effective marketing campaign strategies for peak seasons to optimize sales.
+
+
 Marketing Campaign Analysis
+
 Data analysis reveals that the marketing campaigns of Client A, a cosmetics company, are significantly influenced by seasonality. Peak sales, website traffic, and keyword searches occur during holiday seasons and special events like New Year's and Valentine's Day. This indicates that the company can achieve better results by focusing on these periods and implementing targeted strategies.
 
 Different marketing channels also exhibit varying performance. The search channel has been identified as the most effective channel for customer acquisition and driving sales. In contrast, the display channel has performed poorly and requires optimization. These findings suggest that budget allocation should be optimized to maximize return on investment for the company.
